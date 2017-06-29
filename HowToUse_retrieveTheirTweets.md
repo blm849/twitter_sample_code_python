@@ -1,4 +1,4 @@
-# twitter_sample_code_python
+# How to use retrieveTheirTweets.py
 
 To use retrieveTheirTweets.py, you will need a few things:
 
