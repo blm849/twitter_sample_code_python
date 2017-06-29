@@ -4,7 +4,9 @@ To use retrieveTheirTweets.py, you will need a few things:
 
 1) You will need a computer that can run python programs. From a command prompt, enter: python -V. If you have python
 running, you will get a response like this: Python 2.7.10. If you don't, you will need to install python.
-2) You will need to download retrieveTheirTweets.py and twitter.ini file
+2) You will need to download retrieveTheirTweets.py and twitter.ini file. To do that, go here 
+https://github.com/blm849/twitter_sample_code_python and click on the "Clone or Download" button
+and download the zip file and then unzip the file.
 3) You will need to go here https://apps.twitter.com and create a twitter app. When you do, you will be give a set of keys and access tokens.
 The names of the keys and access tokens are in the twitter.ini file. 
 4) You will need to replace the keys and access tokens in the twitter.ini file with the ones for your twitter app.
