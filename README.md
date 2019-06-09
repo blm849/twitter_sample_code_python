@@ -10,3 +10,5 @@ with my ability to use the twitter API. I added some features like the ability t
 rate of tweets I get.
 
 retrieveTheirTweets.py works but the code needs more comments.
+retrieveList.py will retrieve a list you pass to it
+retrieveTrendingInformation.py is something I am experimenting with. 
